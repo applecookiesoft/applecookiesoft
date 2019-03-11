@@ -21,7 +21,7 @@ embed sc##SCT:to:CR##
 cr_adMAKE
 process_stop
 clean
-b_speed+(e)
+b-speed+(e)
 sc_req
 reqREQURE
 a_d_code
