@@ -1,0 +1,43 @@
+^^& Do not delete this file, it is needed for Process Burner to work! &^^
+
+^^&=crNOTE
+crNOTE//IGNORE
+d_a
+(cd process burner)
+e. download
+.proburn
+*cancel
+install proburn.processburner
+e. package
+e. extract
+e. run(+Process Burner+)
+d. delete(_adno)
+ft##proburn_file
+cr{{openDA}}
+cr{{closePR}}
+(cd create shortcut)
+#[sct cr{{shortVC}} make]
+embed sc##SCT:to:CR##
+cr_adMAKE
+process_stop
+clean
+b_speed+(e)
+sc_req
+reqREQURE
+a_d_code
+license_key;
+version;
+2 updated=false
+crd_9319
+ah_d==CLOSE_PROCESS
+ah_t==LOOKUP_PROCESS
+ah_19==LISTPROCESS;
+filetype;
+.dll list,, SHOWlist
+crv_VARIABLE;
++NK64DGWEUIDDEUBH36DGY86D6834DGOPD7
+system#CODE ^^
+^^=aboveline;
+LINE_LINE_UP=*1
+ESC==EXITSC
+DELSC&DELETE_SCRIPTFILE25
